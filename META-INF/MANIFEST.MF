@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Uefi EDK2 Wizards Plugin
-Bundle-SymbolicName: Uefi_EDK2_Wizards;singleton:=true
-Bundle-Version: 0.0.4
-Bundle-Activator: org.uefiide.Activator
+Bundle-SymbolicName: me.fmartins.unbiosed.plugin;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: me.fmartins.unbiosed.Activator
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
  org.eclipse.ui.ide;bundle-version="3.10.2",

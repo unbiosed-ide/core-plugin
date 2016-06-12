@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>eclipse_uefi_edk2_tools_wizards_plugin</name>
+	<name>me.fmartins.unbiosed.plugin</name>
 	<comment></comment>
 	<projects>
 	</projects>

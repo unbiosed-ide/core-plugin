@@ -10,7 +10,7 @@
       </category>
       <wizard
             category="UefiIde.category.wizards"
-            class="org.uefiide.wizards.ExistingModuleProjectWizard"
+            class="me.fmartins.unbiosed.wizards.ExistingModuleProjectWizard"
             finalPerspective="org.eclipse.cdt.ui.CPerspective"
             id="UefIde.wizards.new.module"
             name="Existing EDK2 Module Wizard"
@@ -18,7 +18,7 @@
       </wizard>
       <wizard
             category="UefiIde.category.wizards"
-            class="org.uefiide.wizards.NewEdk2ModuleProjectWizard"
+            class="me.fmartins.unbiosed.wizards.NewEdk2ModuleProjectWizard"
             finalPerspective="org.eclipse.cdt.ui.CPerspective"
             id="UefIde.wizards.new.empty_module"
             name="New EDK2 Module Wizard"
@@ -28,10 +28,10 @@
    <extension
          point="org.eclipse.ui.startup">
       <startup
-            class="org.uefiide.startup.SetResourceChangeListenerStartup">
+            class="me.fmartins.unbiosed.startup.SetResourceChangeListenerStartup">
       </startup>
       <startup
-            class="org.uefiide.startup.SetDefaultEditorsStartup">
+            class="me.fmartins.unbiosed.startup.SetDefaultEditorsStartup">
       </startup>
    </extension>
 
