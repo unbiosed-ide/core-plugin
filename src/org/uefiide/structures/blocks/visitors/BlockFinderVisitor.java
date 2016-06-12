@@ -1,9 +1,5 @@
 package org.uefiide.structures.blocks.visitors;
 
-import java.util.List;
-import java.util.Map;
-
-import org.uefiide.structures.Edk2Module.Edk2ModuleType;
 import org.uefiide.structures.blocks.DefinitionsBlock;
 import org.uefiide.structures.blocks.Edk2ElementBlockType;
 import org.uefiide.structures.blocks.LibraryClassesBlock;

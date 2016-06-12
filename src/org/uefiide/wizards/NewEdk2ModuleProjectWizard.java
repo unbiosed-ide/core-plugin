@@ -12,7 +12,6 @@ import org.uefiide.projectmanip.ModuleProjectCreationContext;
 import org.uefiide.projectmanip.ModuleProjectCreationContextBuilder;
 import org.uefiide.projectmanip.NewEdk2ModuleProjectCreator;
 import org.uefiide.structures.Edk2Element;
-import org.uefiide.structures.Edk2Module.Edk2ModuleType;
 import org.uefiide.wizards.pages.NewEdk2ModuleProjectPage;
 import org.uefiide.wizards.pages.NewLibraryClassProjectPage;
 import org.uefiide.wizards.pages.NewUefiDriverProjectPage;

@@ -11,7 +11,6 @@ import org.eclipse.core.runtime.Path;
 import org.uefiide.projectmanip.ModuleProjectCreationContext;
 import org.uefiide.projectmanip.internals.Edk2ModuleTemplate;
 import org.uefiide.structures.Edk2Module;
-import org.uefiide.structures.Edk2Package;
 
 public class Edk2UefiApplicationTemplate extends Edk2ModuleTemplate {
 	private boolean includeStdlib;
